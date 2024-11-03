@@ -1,0 +1,7 @@
+c:\users\sena ceylan\source\repos\TikTakTok\TikTakTok\bin\Debug\TikTakTok.exe.config
+c:\users\sena ceylan\source\repos\TikTakTok\TikTakTok\bin\Debug\TikTakTok.exe
+c:\users\sena ceylan\source\repos\TikTakTok\TikTakTok\bin\Debug\TikTakTok.pdb
+c:\users\sena ceylan\source\repos\TikTakTok\TikTakTok\obj\Debug\TikTakTok.csprojAssemblyReference.cache
+c:\users\sena ceylan\source\repos\TikTakTok\TikTakTok\obj\Debug\TikTakTok.csproj.CoreCompileInputs.cache
+c:\users\sena ceylan\source\repos\TikTakTok\TikTakTok\obj\Debug\TikTakTok.exe
+c:\users\sena ceylan\source\repos\TikTakTok\TikTakTok\obj\Debug\TikTakTok.pdb
